@@ -1,0 +1,9 @@
+{
+    "Transaction ID": "TXN-2023-5A9B",
+    "Extracted Entity": ["Global Horizons Consulting LLC", "Bright Future Nonprofit Inc"],
+    "Entity Type": ["Corporation", "Corporation"],
+    "Risk Score": 0.65,
+    "Supporting Evidence": ["OpenCorporates", "Company Website"],
+    "Confidence Score": 0.95,
+    "Reason": "Urgent transfer; missing invoice; sender using VPN"
+}
